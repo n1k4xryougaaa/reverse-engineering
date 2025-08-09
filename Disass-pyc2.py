@@ -1,4 +1,11 @@
+# Tutorial : https://youtu.be/XqPqTkX01YA?si=ubGxlY7le9WIMO9m
+
 # -*- coding: utf-8 -*-
+# Requirements:
+# uncompyle6==3.7.4
+# xdis==5.0.5
+# Pygments==2.5.2
+
 """
 Sebuah disassembler untuk file bytecode Python (.pyc) yang dirancang untuk Python 2.
 """
